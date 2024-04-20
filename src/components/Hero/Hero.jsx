@@ -70,31 +70,19 @@ export default function Hero() {
               <ul>
                 <li>
                   <img
-                    src="https://skillicons.dev/icons?i=html"
+                    src="https://skillicons.dev/icons?i=html,css"
                     alt="skill-icon"
                   />
                 </li>
                 <li>
                   <img
-                    src="https://skillicons.dev/icons?i=css"
+                    src="https://skillicons.dev/icons?i=js,react"
                     alt="skill-icon"
                   />
                 </li>
                 <li>
                   <img
-                    src="https://skillicons.dev/icons?i=js"
-                    alt="skill-icon"
-                  />
-                </li>
-                <li>
-                  <img
-                    src="https://skillicons.dev/icons?i=react"
-                    alt="skill-icon"
-                  />
-                </li>
-                <li>
-                  <img
-                    src="https://skillicons.dev/icons?i=scss"
+                    src="https://skillicons.dev/icons?i=tailwind,scss"
                     alt="skill-icon"
                   />
                 </li>
